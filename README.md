@@ -1,13 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Rebecca. I have a passion for coding and learning!
+
+- 🔭 I’m currently working on an e-commerce React app with SASS and Firebase.
+- 🌱 I’m currently learning Redux, RxJS, and Typescript.
+- 👯 I’m looking to collaborate on Typescript projects.
 
 <!--
 **rebeccaui/rebeccaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
