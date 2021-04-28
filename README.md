@@ -6,6 +6,8 @@ My name is Rebecca. I have a passion for coding and learning!
 - 🌱 I’m currently learning Redux, Docker, and Typescript.
 - 💡 I’m looking to collaborate on Typescript projects.
 
+---
+
 [![Rebeccaui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebeccaui&count_private=true)](https://github.com/rebeccaui/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccaui&layout=compact)](https://github.com/rebeccaui/github-readme-stats)
