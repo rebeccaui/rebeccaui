@@ -2,8 +2,8 @@
 
 My name is Rebecca. I have a passion for coding and learning!
 
-- 💻 I’m currently working on an e-commerce app with React, Redux, SASS, and Firebase.
-- 🌱 I’m currently learning Redux, Docker, and Typescript.
+- 💻 I’m currently working on an e-commerce site for curriculum sales
+- 🌱 I’m currently learning C# and .NET
 - 💡 Send me a message if you want to collaborate!
 
 ---
