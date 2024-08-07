@@ -3,7 +3,7 @@
 My name is Rebecca. I have a passion for coding and learning!
 
 - 💻 I’m currently working on an e-commerce site for curriculum sales
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning Networking and Hardware skills
 - 💡 Send me a message if you want to collaborate!
 
 ---
